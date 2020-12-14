@@ -161,7 +161,8 @@ nav:hover ul {
 }
 
 .one-third-port img {
-  width: 400px;
+  width: 300px;
+  height: 300px;
 }
 
 .one-third-port img:hover {
