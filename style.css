@@ -38,7 +38,7 @@ img {
   height: 100%;
   width: 100%;
   margin: auto;
-  background: url('../img/Vancouver1.jpg') no-repeat 50% 50%;
+  background: url('img/Vancouver1.jpg') no-repeat 50% 50%;
   background-size: cover;
   display: table;
   top: 0;
