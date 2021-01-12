@@ -144,10 +144,33 @@ nav:hover ul {
   margin: 4% 0 4% 4%;
 }
 
+.left-col ol li {
+  font-family: 'Raleway', serif;
+  font-size: 100%;
+  font-weight: 400;
+  color: #2c2c2c;
+  text-align: justify;
+}
+
+.left-colLower {
+  width: 60%;
+  float: left;
+  margin: 4% 0 4% 4%;
+}
+
+.left-colLower ol li {
+  font-family: 'Raleway', serif;
+  font-size: 100%;
+  font-weight: 400;
+  color: #2c2c2c;
+  text-align: justify;
+}
+
 .sidebar {
   width: 26%;
   float: left;
   margin: 4%;
+  padding-top: 75px;
 }
 
 .one-third-port {
